@@ -1,0 +1,4 @@
+interface:
+  display_name: "Effective Java（JDK 17+）"
+  short_description: "用 Effective Java 原则审查与重构 Java 代码"
+  default_prompt: "用 $effective-java 审查这段 Java 代码：按 P1→P3 输出，每条带 EJ 条目、改法与兼容性影响。"
